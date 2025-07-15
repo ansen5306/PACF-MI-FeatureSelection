@@ -3,7 +3,7 @@
 
 本仓库包含专利《基于偏自相关函数（PACF）与互信息（MI）动态协同的时序预测特征选择方法及系统》的算法实现。
 ## 核心文件
-- [伪代码实现](pseudocode.md)
+- [伪代码实现](algorithm_pseudocode.md)
 - [MIT许可证](LICENSE)
 
 ## 算法流程
